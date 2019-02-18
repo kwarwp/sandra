@@ -1,2 +1,2 @@
 # Caroline Maia Dias
-from _spy.vittalino.main import cena,Elemento,Texto
+from _spy.vittalino.main import Cena,Elemento,Texto
