@@ -1,3 +1,7 @@
 # Caroline Maia Dias
 from _spy.vittalino.main import Cena,Elemento,Texto
-elemento_bobesponja = "https://www.google.com.br/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiC2tDen8bgAhVxH7kGHWv-CgoQjRx6BAgBEAU&url=https%3A%2F%2Ffazendoanossafesta.com.br%2F2011%2F07%2Fimagens-e-molduras-do-bob-esponja-calca-quadrada.html%2F&psig=AOvVaw0TM5rlzVx2qvLij-VVIfym&ust=1550612435948773"
+elemento_mulhermaravilha = https://3.bp.blogspot.com/-mu96D51rmjY/WNgdie4l9iI/AAAAAAAAJDo/ZGMs0G1LvZABrLFaPn5exbhEOZ6twGc1wCLcB/s1600/justice_league___wonder_woman_png_by_mintmovi3-db3hh8l.png
+def Historia():
+	cenaBombanuclear = Cena()
+
+Historia()
