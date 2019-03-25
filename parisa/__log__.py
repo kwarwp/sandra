@@ -78,3 +78,10 @@ TypeError: 'module' object is not callable
         ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Mar 25 2019 18:51:34.993 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  cena House = Cena(img = "https://pngimage.net/wp-content/uploads/2018/05/cen%C3%A1rio-png.png")
+        ^
+SyntaxError: invalid syntax
+'''},
