@@ -48,3 +48,10 @@ SyntaxError: invalid syntax
            ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Mar 25 2019 16:52:35.154 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 3
+  Elemento_Night Wing="https://vignette.wikia.nocookie.net/nerdologiaheroespowers/images/2/23/Asa_Noturna.png/revision/latest?cb=20180206000240&path-prefix=pt-br"def Historia():
+                  ^
+SyntaxError: invalid syntax
+'''},
