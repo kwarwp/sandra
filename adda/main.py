@@ -1,10 +1,10 @@
 # pedro henrique cordeiro
 
 from _spy.vittolino.main import Cena, Elemento, Texto
-elemento_gato = "https://sc.mogicons.com/l/garfield-172.png"
+elemento_gato = "http://mtv.mtvnimages.com/apps/series-art/teen-wolf/teenwolf_web_series_hero_1920x540_013019.jpg?quality=0.85&width=959&height=540&crop=true"
 
 def Historia():
-	cenaHouse = Cena(img = "https://i.pinimg.com/originals/3f/36/7f/3f367f727042a6c6b03301167d113104.jpg")
-
+	cenaHouse = Cena(img = "")
+	cenaHOUSE.vai()
 Historia()
 
