@@ -1,5 +1,5 @@
 # Cibele Ribeiro
-from _spy.vittolino.main import Cena, Elemento, Texto
+from _spy.vitollino.main import Cena, Elemento, Texto
 elemento_gato = "https://sc.mogicons.com/l/garfield-172.png"
 
 def Historia():
