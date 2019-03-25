@@ -5,6 +5,6 @@ elemento_gato = "http://mtv.mtvnimages.com/apps/series-art/teen-wolf/teenwolf_we
 
 def Historia():
 	cenaHouse = Cena(img = "")
-	cenaHOUSE.vai()
+	cenaHouse.vai()
 Historia()
 
