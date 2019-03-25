@@ -71,3 +71,10 @@ TypeError: 'module' object is not callable
     	cenaHouse = Cena(img = "https://pngimage.net/wp-content/uploads/2018/05/cen%C3%A1rio-png.png")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Mon Mar 25 2019 18:50:52.344 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  cena House= Cena(img ="https://pngimage.net/wp-content/uploads/2018/05/cen%C3%A1rio-png.png")
+        ^
+SyntaxError: invalid syntax
+'''},
