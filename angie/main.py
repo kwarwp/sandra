@@ -3,6 +3,7 @@ from _spy.vittolino.main import Cena, Elemento, Texto
 elemento_casalMouse = "https://www.google.com.br/ur 
 
 def Historia():
-	cenaHouse = Cena(img = "")
-
+	cenaHouse = Cena(img = "https://img.elo7.com.br/product/zoom/D70D91/painel-casa-do-mickey-mouse-tema-de-festa-infantil.jpg")
+    
+     cenaHouse.vai()
 Historia()
