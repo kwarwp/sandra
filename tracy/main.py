@@ -4,5 +4,5 @@ elemento_gato = "https://sc.mogicons.com/l/garfield-172.png"
 
 def Historia():
 	cenaHouse = Cena(img = "")
-
+	cenaHouse.vai()
 Historia()
