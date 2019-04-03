@@ -8,5 +8,5 @@ def historia():
                       tit="kaneki preto",
                       sryle=dict( left=150, top =60, height=200))                    
 	kanrki.entra(cenakaneki)
-	cenahouse.vai()    
+	cenakaneki.vai()    
 Historia()  
