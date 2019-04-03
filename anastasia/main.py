@@ -7,6 +7,6 @@ def Historia():
 	gato = Elemento (img = elemento_gato,
                       tit="Gato Laranja",
                       style = dict( left=150, top =60, width=60, height=200))
-	gato.entra
+	gato.entra(cenaHouse)
 	cenaHouse.vai()
 Historia()
