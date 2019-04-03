@@ -59,3 +59,10 @@ SyntaxError: invalid syntax
                                                                                           ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Apr 03 2019 18:55:36.204 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  ninja = Elemento (img=elemento_ninja, 
+                                                                                                                                                                   ^
+SyntaxError: invalid syntax
+'''},
