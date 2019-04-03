@@ -98,3 +98,10 @@ NameError: name 'Historia' is not defined
                                                                                                               ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Apr 03 2019 18:54:58.516 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  Bart=Elemento(img = elemento_Bart,
+                                                                                                                ^
+SyntaxError: invalid syntax
+'''},
