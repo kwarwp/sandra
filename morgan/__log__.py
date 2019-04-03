@@ -31,3 +31,10 @@ SyntaxError: invalid syntax
                                                                                        ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Wed Apr 03 2019 18:38:58.98 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  cenaNinja = Cena(img = ""
+                              ^
+SyntaxError: invalid syntax
+'''},
