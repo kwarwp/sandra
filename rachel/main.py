@@ -7,6 +7,6 @@ def historia():
 	kanwki=Elemento(img=elemento_kaneki,
                       tit="kaneki preto",
                       sryle=dict( left=150, top =60, height=200))                    
-	kanrki.entra(cenahouse)
+	kanrki.entra(cenaHouse)
 	cenahouse.vai()    
-historia()  
+Historia()  
