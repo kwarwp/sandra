@@ -4,9 +4,9 @@ elemento_kaneki = "https://data.whicdn.com/images/204362721/superthumb.png?t=144
 
 def historia():
 	cenakaneki=cena()
-	kanwki=Elemento(img=elemento_kaneki,
+	kaneki=Elemento(img=elemento_kaneki,
                       tit="kaneki preto",
                       sryle=dict( left=150, top =60, height=200))                    
-	kanrki.entra(cenakaneki)
+	kaneki.entra(cenakaneki)
 	cenakaneki.vai()    
 Historia()  
