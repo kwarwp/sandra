@@ -24,3 +24,10 @@ TypeError: 'module' object is not callable
                                                                                                   ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Apr 03 2019 18:29:28.541 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  cenahouse = Cena(img = "http://farm3.static.flickr.com/2290/1888495823_ef459b5c3e.jpg
+                                                                                       ^
+SyntaxError: EOL while scanning string literal
+'''},
