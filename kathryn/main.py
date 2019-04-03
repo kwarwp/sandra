@@ -4,5 +4,7 @@ Elemento_deadpool="https://vignette.wikia.nocookie.net/xmenmovies/images/7/7c/De
 
 def Historia():
 	cenaHouse = Cena(img = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Wrestling%2C_Pavilh%C3%A3o_Atl%C3%A2ntico_1.jpg/250px-Wrestling%2C_Pavilh%C3%A3o_Atl%C3%A2ntico_1.jpg")
+	Deadpoo = Elemento(img=elemento_Deadpoo,
+                        
+
 	cenaHouse.vai()
-Historia()
