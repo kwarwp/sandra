@@ -4,6 +4,8 @@ elemento_ninja = "http://pluspng.com/img-png/ninja-hd-png-ninja-images-cnmuqi-hd
 
 def historia():
 	cenaNinja = Cena(img = "")
-	cenaNinja.vai()
+	ninja = Elemento (img = elemento_ninja, 
+                tit="Ninja preto",
+	  cenaNinja.vai()
     
 historia()
