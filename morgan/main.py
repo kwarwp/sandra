@@ -6,7 +6,7 @@ def historia():
 	cenaHouse= Cena(img = "http://farm3.static.flickr.com/2290/1888495823_ef459b5c3e.jpg")
 	ninja = Elemento (img=elemento_ninja, 
                        tit="ninja preto",
-                       style = dict( left=150, top =60, width=60, height=200)
+                       style = dict( left=150, top =60, width=60, height=200))
 	ninja.entra(cenaHouse)
 	cenaHouse.vai()
 Historia()
