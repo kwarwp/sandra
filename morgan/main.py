@@ -7,7 +7,9 @@ def historia():
 	ninja = Elemento (img = elemento_ninja, 
                        tit="ninja preto
                        style = dict( left=150, top =60, width=60, height=200)
-	ninja.entra(cenaHouse)                   
+	ninja.entra(cenaHouse
+	 cenaHouse.vai()
 
-historia()
+
+
 
