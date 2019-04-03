@@ -17,3 +17,10 @@
     	cenaNinja = Cena(img = "https://i1.wp.com/homensdacasa.net/wp-content/uploads/2017/08/leitor-ninja-casa-lara-84.jpg?resize=960%2C642")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Wed Apr 03 2019 18:26:19.660 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  ninja = Elemento (img = elemento_ninja, 
+                                                                                                  ^
+SyntaxError: invalid syntax
+'''},
