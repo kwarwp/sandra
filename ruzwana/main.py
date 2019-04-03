@@ -7,6 +7,6 @@ def Historia():
       incriveis = Elemento(img = elemento_incriveis,
                           tit="Os incriveis",
                           style = dict( left=150, top =60, height=200))
-    incriveis.entra(cenaHause)
+	incriveis.entra(cenaHouse)
 	cenaHouse.vai()
 Historia()
