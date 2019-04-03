@@ -7,6 +7,6 @@ def Historia():
 	Deadpoo = Elemento(img=elemento_Deadpoo,
                         tit=Deadpoo",
                         style = dict(left=150,top =60,width=60,hright=200
-
+	Deadpooo,entra(cenaHouse)
 	cenaHouse.vai()
 Hitoria()
