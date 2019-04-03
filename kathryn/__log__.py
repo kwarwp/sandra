@@ -44,3 +44,10 @@ Traceback (most recent call last):
   module <module> line 2
     from _spy.vitollino.main import cena, Elemento, Texto
 '''},
+{'date': 'Wed Apr 03 2019 18:50:07.535 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  tit=Deadpoo",
+               ^
+SyntaxError: EOL while scanning string literal
+'''},
