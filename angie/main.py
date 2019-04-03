@@ -4,7 +4,7 @@ elemento_casalMouse = "https://akns-images.eonline.com/eol_images/Entire_Site/20
 
 def Historia():
       cenaHouse = Cena(img = "https://img.elo7.com.br/product/zoom/D70D91/painel-casa-do-mickey-mouse-tema-de-festa-infantil.jpg"
-      cinderela = Elemeento(ing = elemento_cinderela,
+      cinderela = Elemento(img = elemento_cinderela,
                             tit="Cinderela",
 	cenaHouse.vai()   
 Historia()
