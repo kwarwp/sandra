@@ -6,3 +6,10 @@
         ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Apr 03 2019 18:50:42.740 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 5
+  def Historia():=
+                  ^
+SyntaxError: invalid syntax
+'''},
