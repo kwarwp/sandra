@@ -6,5 +6,7 @@ def Historia():
 	cenaHouse = Cena(img = "https://pngimage.net/wp-content/uploads/2018/05/cen%C3%A1rio-png.png")
 	mickey = Elemento (img = elemento_mickey,
                         tit="Gato Laranja",
+                        style = dict( left=150, top =60 width 60 heigh =200)
+	mickey,entra(cenaHouse)
 	cenaHouse.vai()
 Historia ()
