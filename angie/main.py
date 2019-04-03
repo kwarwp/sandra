@@ -6,5 +6,7 @@ def Historia():
       cenaHouse = Cena(img = "https://img.elo7.com.br/product/zoom/D70D91/painel-casa-do-mickey-mouse-tema-de-festa-infantil.jpg"
       cinderela = Elemento(img = elemento_cinderela,
                             tit="Cinderela",
+                            style = dict( left=150, top =60, height=200))
+      cinderela.entra(cenaHouse)
 	cenaHouse.vai()   
 Historia()
