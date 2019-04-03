@@ -7,6 +7,6 @@ def Historia():
 	Bart=Elemento(img=elemento_Bart,
                   tit="Bart Amarelo",
                   style=dict(left=150, top =60, width=60, height=200))
+	Bart.entra(cenaHouse)
 	cenaHouse.vai()
 Historia()
-()
