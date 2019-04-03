@@ -6,5 +6,7 @@ def Historia():
 	cenaQuarto = Cena(img = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCx-MkZzcdk8uwwRpah7bUzH65QoU0dIxen-7bJp9COzSLi1CR")
 	snoopy = Elemento (img = Elemento_cachorro,
                         tit="cachorro branco",
+                        style = dict( left=150, top=60, width=60,height=200))
+	cachorro.entra(cenaQuarto)
 	cenaQuarto.vai()    
 Historia()
