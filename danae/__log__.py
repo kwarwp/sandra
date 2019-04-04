@@ -20,3 +20,10 @@ IndentationError: unexpected indent
    ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Thu Apr 04 2019 14:59:23.413 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 5
+  linkDoShrek = https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/shrek-swamp-perplexed.jpg
+                      ^
+SyntaxError: invalid syntax
+'''},
