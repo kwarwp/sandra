@@ -48,3 +48,10 @@ IndentationError: expected an indented block
                                     ^
 IndentationError: expected an indented block
 '''},
+{'date': 'Thu Apr 04 2019 15:26:45.327 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  def Historia():
+  ^
+IndentationError: unexpected indent
+'''},
