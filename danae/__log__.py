@@ -34,3 +34,10 @@ SyntaxError: invalid syntax
   ^
 IndentationError: expected an indented block
 '''},
+{'date': 'Thu Apr 04 2019 15:11:07.346 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  # HI I AM SAPEQUINHA AND I LIKE JOOJIS
+                                        ^
+IndentationError: expected an indented block
+'''},
