@@ -297,3 +297,10 @@ NameError: name 'Historia' is not defined
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Apr 17 2019 18:14:08.825 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  txtNinja = Texto(cenaHouse,
+  ^
+IndentationError: unexpected indent
+'''},
