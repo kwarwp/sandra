@@ -24,3 +24,10 @@ TypeError: 'module' object is not callable
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Apr 17 2019 18:08:09.487 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  txtGato = Texto(cenaHouse,
+  ^
+IndentationError: unexpected indent
+'''},
