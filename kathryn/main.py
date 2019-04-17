@@ -9,4 +9,7 @@ def Historia():
                         style = dict(left=150,top =60,width=60,height=200))
 	Deadpoo.entra(cenaHouse)
 	cenaHouse.vai()
+                   
+	Deadpoo = txtdeadpoo.vai
+	
 Historia()
