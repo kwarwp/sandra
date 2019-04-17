@@ -96,3 +96,10 @@ NameError: name 'Elemento_snoopy' is not defined
     	snoopy = Elemento (img = Elemento_snoopy,
 NameError: name 'Elemento_snoopy' is not defined
 '''},
+{'date': 'Wed Apr 17 2019 18:28:32.692 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  txtsnoopy = Texto( cenaQuarto,
+  ^
+IndentationError: unexpected indent
+'''},
