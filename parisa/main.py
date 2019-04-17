@@ -8,5 +8,7 @@ def Historia():
                         tit="Mickey Laranja",
                         style = dict( left=150, top =60, width 60, heigh =200))
 	mickey.entra(cenaHouse)
+	txtMickey = Texto(cenaHouse,
+                       "alguem viu a minnie ai?
 	cenaHouse.vai()
 Historia ()
