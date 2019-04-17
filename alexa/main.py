@@ -7,6 +7,9 @@ def Historia():
 	Bart = elemento (img = elemento_Bart,
                   tit="Bart amarelo",
                   style = dict(left 150,top=60,width=60, height=200
-	  Bart.entra(cenaHouse)              
+	  Bart.entra(cenaHouse) 
+	  txtBart = Texto( cenaHouse,
+                 "Estou com fome!")
+	Bart.vai= txtBart.vai
 	cenaHouse.vai()                    
 Historia()
