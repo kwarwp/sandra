@@ -8,5 +8,8 @@ def Historia():
                         tit="snoopy branco",
                         style = dict( left=150, top=60, width=60,height=200))
 	snoopy.entra(cenaQuarto)
+      txtsnoopy = Texto( cenaQuarto,
+                       "quero bombom!")
+	snoop.vai +txtSnoopy.vai
 	cenaQuarto.vai()    
 Historia()
