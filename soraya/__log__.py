@@ -6,3 +6,10 @@
         ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Apr 17 2019 18:19:30.839 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  txtGato=Texto(cenaHouse
+                                               ^
+SyntaxError: invalid syntax
+'''},
