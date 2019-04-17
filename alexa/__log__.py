@@ -182,3 +182,10 @@ SyntaxError: invalid syntax
                         ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Apr 17 2019 18:24:06.739 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 3
+  elemento_Bart = https://static.simpsonswiki.com/images/8/83/Bart_skate_-_s25_artwork.png
+                        ^
+SyntaxError: invalid syntax
+'''},
