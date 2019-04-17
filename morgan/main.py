@@ -8,10 +8,7 @@ def historia():
                        tit="ninja preto",
                        style = dict( left=150, top =60, width=60, height=200))
 	ninja.entra(cenaHouse)
-	cenaHouse.vai()
+	txtNinja = Texto(cenaHouse,
+                       "Vou luta!")
+cenaHouse.vai()
 Historia()
-
-
-
-
-
