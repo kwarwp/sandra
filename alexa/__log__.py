@@ -161,3 +161,10 @@ SyntaxError: invalid syntax
                                                                                                                    ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Apr 17 2019 18:22:09.332 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 3
+  elemento_Bart = https://sc.mogicons.com/l/Bart-172.png"
+                        ^
+SyntaxError: invalid syntax
+'''},
