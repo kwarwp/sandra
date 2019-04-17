@@ -103,3 +103,10 @@ NameError: name 'Elemento_snoopy' is not defined
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Apr 17 2019 18:28:59.82 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  txtsnoopy = Texto( cenaQuarto,
+  ^
+IndentationError: unexpected indent
+'''},
