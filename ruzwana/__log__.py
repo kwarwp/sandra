@@ -13,3 +13,10 @@ SyntaxError: invalid syntax
                   ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Apr 17 2019 18:32:47.916 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 3
+  elemento_incriveis ribas  ="https://colunadoflamengo.com/wp-content/uploads/2018/12/diego-ribas.jpg"
+                      ^
+SyntaxError: invalid syntax
+'''},
