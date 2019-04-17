@@ -8,7 +8,7 @@ def Historia():
                       tit="Gato Laranja",
                       style = dict( left=150, top =60, width=60, height=200))
 	gato.entra(cenaHouse)
-	txtGato=Texto(cenaHouse
+	txtGato = Texto(cenaHouse,
                     "Estou com fome!")
 
 	gato.vai=txtGato.vai
