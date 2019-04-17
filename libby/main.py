@@ -10,6 +10,6 @@ def Historia():
 	snoopy.entra(cenaQuarto)
 	txtSnoopy = Texto( cenaQuarto,
                        "quero bombom!")
-	snoop.vai = txtSnoopy.vai
+	snoopy.vai = txtSnoopy.vai
 	cenaQuarto.vai()    
 Historia()
