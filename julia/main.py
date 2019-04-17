@@ -7,6 +7,9 @@ def Historia():
 	alien = Elemento ( img = elemento_alien,
                        tit="Alien Laranja",
                        style = dict( left=150, top =60, width=60, height=200))
-	alien.entra(cenaHouse)
-	cenaFloresta.vai
-Historia() 
+	alien.entra(cenaHouse) 
+	Alien = Texto (cenaHouse,
+                    "Estou com sede!")
+	alien.vai = txtAlien.vai
+	cenaHouse.vai
+Historia()
