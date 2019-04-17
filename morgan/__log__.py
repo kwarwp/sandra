@@ -290,3 +290,10 @@ NameError: name 'Historia' is not defined
     Historia()
 NameError: name 'Historia' is not defined
 '''},
+{'date': 'Wed Apr 17 2019 18:13:34.850 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  txtNinja = Texto( CenaHouse)
+  ^
+IndentationError: unexpected indent
+'''},
