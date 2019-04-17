@@ -8,8 +8,8 @@ def Historia():
                           tit="Os incriveis",
                           style = dict( left=150, top =60, height=200))
 	incriveis.entra(cenaHouse)
-    txtincrivel=texto(cenaHouse,
-                      "quero lutar!")
-incrivel.vai()
+	txtincrivel=texto(cenaHouse,
+                       "quero lutar!")
+	incrivel.vai()
 	cenaHouse.vai()
 Historia()
