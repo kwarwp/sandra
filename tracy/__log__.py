@@ -17,3 +17,10 @@
     	cenaHouse = Cena(img = "https://i.pinimg.com/originals/3f/36/7f/3f367f727042a6c6b03301167d113104.jpg")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Wed Apr 17 2019 18:07:49.625 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  txtGato = Texto (cenaHouse,
+  ^
+IndentationError: unexpected indent
+'''},
