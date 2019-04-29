@@ -9,7 +9,7 @@ def Historia():
                       style = dict(left=150,top=60,width=60, height=200))
 	bart.entra(cenaHouse) 
 	txtBart = Texto( cenaHouse,
-                 "Estou com fome!")
+                 "Estou com fome!AMO A VIDA")
 	bart.vai= txtBart.vai
 	cenaHouse.vai()                    
 Historia()
