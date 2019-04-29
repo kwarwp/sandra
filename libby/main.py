@@ -9,7 +9,7 @@ def Historia():
                         style = dict( left=150, top=60, width=60,height=200))
 	snoopy.entra(cenaQuarto)
 	txtSnoopy = Texto( cenaQuarto,
-                       "quero bombom!")
+                       "As school kids went for an excursion. When they reached the cave, they lit up like candles and began to explore the mountain. Tom and Amy got lost, but found Injun Joe hiding the treasure.")
 	snoopy.vai = txtSnoopy.vai
 	cenaQuarto.vai()    
 Historia()
