@@ -9,7 +9,7 @@ def Historia():
                        style = dict( left=150, top =60, width=60, height=200))
 	ninja.entra(cenaHouse)
 	txtNinja = Texto(cenaHouse,
-                       "Vou lutar!")
+                       "The summer passed and Tom decided to seek the hidden treasure. They went to an abandoned and latent mansion to escape Injun Joe talking about the treasure. When he left he would take revenge. Tom was worried but the logo was erased for Amy on the way.")
 	ninja.vai = txtNinja.vai
 	cenaHouse.vai()
 Historia()
