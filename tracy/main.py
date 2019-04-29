@@ -9,7 +9,7 @@ def Historia():
                       style = dict( left=150, top =60, width=60, height=200))
 	gato.entra(cenaHouse)
 	txtGato = Texto(cenaHouse,
-                     "Estou com fome!")
+                     "Tom gosta de se esconder da Tia que sempre reclama. Era sábado e a tia pediu para ele pintar a cerca como castigo. Enquanto pintava, Ben passou e pediu para ajudar Tom disse que só aceitaria ajuda se ele desse uma maçã. Tom foi para casa , no caminho encontrou uma linda garota no jardim. Era a Amy, ele se apaixonou na hora.")
 	gato.vai = txtGato.vai                     
 	cenaHouse.vai()
 Historia()
