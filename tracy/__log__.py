@@ -31,3 +31,10 @@ IndentationError: unexpected indent
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Mon Apr 29 2019 18:42:00.206 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  "Tom gosta de se esconder da Tia que sempre reclama. Era sábado e a tia pediu para ele pintar a cerca como castigo. Enquanto pintava, Ben passou e pediu para ajudar Tom disse que só aceitaria ajuda se ele desse uma maçã. Tom foi para casa , no caminho encontrou uma linda garota no jardim. Era a Amy, ele se apaixonou na hora.
+                                                                                                                                                                                                                                                                                                                                        ^
+SyntaxError: EOL while scanning string literal
+'''},
