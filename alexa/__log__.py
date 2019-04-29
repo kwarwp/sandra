@@ -189,3 +189,10 @@ SyntaxError: invalid syntax
                         ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Apr 29 2019 18:43:15.31 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  txtBart = Texto( cenaHouse,
+                                                    ^
+SyntaxError: invalid syntax
+'''},
