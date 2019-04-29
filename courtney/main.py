@@ -8,5 +8,4 @@ def Historia():
                      tit ='Gato Laranja',
                      style = dict ( let=150,top=60,width 60, heigh=200))
 	minnie,entra(cenaHouse)
-    cenaHouse.vai()
-Historia ()
+    minnie = texto(cenaHouse)
