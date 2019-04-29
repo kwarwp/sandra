@@ -8,7 +8,9 @@ def Historia():
                           style = dict( left=100, top=60, width=60, heigt=150))
 	night_wing.entra(cenaTowertitan)
 	txtNight_Wing = Texto (cenaTowertitan,
-                             "Estou em casa de novo!")
+                             "Tom decided to roam the world. It combined with Joe and Huck to make a pirate adventure. The three friends decided to go to an island. The fish slept and ate the fish, back to town their relatives were very worried thinking they were dead.")
+
+
 	night_wing.vai = txtNight_Wing.vai
 	cenaTowertitan.vai()
 Historia()
