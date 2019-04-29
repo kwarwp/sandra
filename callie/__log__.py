@@ -202,3 +202,10 @@ SyntaxError: invalid syntax
                                                                                                                                                       ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Apr 29 2019 18:47:20.177 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  "Tom decided to roam the world. It combined with Joe and Huck to make a pirate adventure. The three friends decided to go to an island. The fish slept and ate the fish, back to town their relatives were very worried thinking they were dead.
+                                                                                                                                                                                                                                                  ^
+SyntaxError: EOL while scanning string literal
+'''},
