@@ -128,3 +128,10 @@ IndentationError: unexpected indent
     	snoop.vai = txtSnoopy.vai
 NameError: name 'snoop' is not defined
 '''},
+{'date': 'Mon Apr 29 2019 18:45:51.457 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  "As school kids went for an excursion. When they reached the cave, they lit up like candles and began to explore the mountain. Tom and Amy got lost, but found Injun Joe hiding the treasure.
+                                                                                                                                                                                               ^
+SyntaxError: EOL while scanning string literal
+'''},
