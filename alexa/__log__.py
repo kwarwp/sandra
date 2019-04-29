@@ -203,3 +203,10 @@ SyntaxError: invalid syntax
                           ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Mon Apr 29 2019 18:43:48.619 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  "The Pirates Return Home
+                          ^
+SyntaxError: EOL while scanning string literal
+'''},
