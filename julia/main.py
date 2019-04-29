@@ -4,11 +4,11 @@ elemento_alien = "https://cdn3.iconfinder.com/data/icons/pictofoundry-pro-vector
 
 def Historia():
 	cenaHouse = Cena(img = "https://img.elo7.com.br/product/zoom/1360BB4/painel-floresta-g-frete-gratis-fundo-festa-infantil.jpg")
-	alien = Elemento ( img = elemento_alien,
+	alien = Elemento (img = elemento_alien,
                        tit="Alien Laranja",
                        style = dict( left=150, top =60, width=60, height=200))
 	alien.entra(cenaHouse) 
-	Alien = Texto (cenaHouse,
+	txtAlien = Texto (cenaHouse,
                     "Estou com sede!")
 	alien.vai = txtAlien.vai
 	cenaHouse.vai
