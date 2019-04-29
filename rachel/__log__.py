@@ -69,3 +69,10 @@ SyntaxError: EOL while scanning string literal
                                                                                          ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Mon Apr 29 2019 18:36:18.10 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 3
+  elemento_kaneki = "https://data.whicdn.com/images/204362721/superthumb.png?t=1445214745
+                                                                                         ^
+SyntaxError: EOL while scanning string literal
+'''},
