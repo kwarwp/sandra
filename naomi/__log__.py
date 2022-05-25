@@ -20,3 +20,10 @@ SyntaxError: invalid syntax
                    ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Tue May 24 2022 23:54:51.855 GMt-0300 (Hora padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  cenaarianagrande = Cena( img ="http://3.bp.blogspot.com/-flrppDI3vno/VRx579SLLKI/AAAAAAAABlc/6GtG4uTfYwY/s1600/cerejeiras%2Bjap%C3%A3o.jp
+                                                                                                                                           ^
+SyntaxError: EOL while scanning string literal
+'''},
