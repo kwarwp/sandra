@@ -19,3 +19,7 @@ Exception: <SyntaxError: Invalid left-hand side in assignment>
     elemento.picapau =""
 NameError: name 'elemento' is not defined
 '''},
+{'date': 'Tue May 24 2022 23:53:15.751 GMt-0300 (Hora padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+Exception: <SyntaxError: Invalid left-hand side in assignment>
+'''},
